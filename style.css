@@ -12829,7 +12829,9 @@ dl {
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
   -ms-flex-direction: column;
-  flex-direction: column; }
+  flex-direction: column;
+  max-width: 1480px;
+    margin: 0 auto !important;}
   @media (max-width: 991px) {
     .main-panel {
       margin-left: 0;
