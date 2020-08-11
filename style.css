@@ -10285,7 +10285,7 @@ h6, .h6 {
   font-size: .9375rem; }
 
 p {
-  font-size: .9375rem;
+  font-size: .78125rem;
   line-height: 1.5; }
 
 .display-1 {
@@ -12855,7 +12855,7 @@ dl {
       right: 10px; } }
 
 .quick-action-toolbar .card .card-header {
-  color: #ffffff;
+  color: #ffffff !important;
   padding: 12px 30px;
   background-image: -webkit-gradient(linear, right top, left top, from(#fad961), to(#f76b1c));
   background-image: linear-gradient(to left, #fad961, #f76b1c);
