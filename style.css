@@ -3138,7 +3138,7 @@ pre {
   color: #212529; }
   .table th,
   .table td {
-    padding: 0.9375rem;
+    padding: 0.75rem;
     vertical-align: top;
     border-top: 1px solid #e8ecf1; }
   .table thead th {
@@ -11868,7 +11868,7 @@ dl {
   .table th,
   .table td {
     vertical-align: middle;
-    font-size: 0.875rem;
+    font-size: 0.725rem;
     line-height: 1;
     white-space: nowrap; }
     .table th img,
