@@ -12858,8 +12858,8 @@ dl {
 .quick-action-toolbar .card .card-header {
   color: #ffffff !important;
   padding: 12px 30px;
-  background-image: -webkit-gradient(linear, right top, left top, from(#fad961), to(#f76b1c));
-  background-image: linear-gradient(to left, #fad961, #f76b1c);
+  background-image: -webkit-gradient(linear, right top, left top, from(#faa538), to(#f76b1c));
+  background-image: linear-gradient(to left, #faa538, #f76b1c);
   border: 0;
   border-radius: 0; }
   .quick-action-toolbar .card .card-header h5 {
