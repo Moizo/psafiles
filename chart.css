@@ -1,0 +1,65 @@
+/* Stappenplan */
+/* #tweeja{
+    display:none;
+}
+#tweenee{
+    display:none;
+} */
+#vierja{
+    display:none;
+}
+#viernee{
+    display:none;
+}
+.psa-survey-button{
+    width:66% !important;
+}
+
+
+#chart .center-block {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+.container svg {
+  height: 4rem;
+}
+.container svg line {
+  stroke: #E60036 !important;
+  stroke-width: 4px;
+  stroke-linecap: round;
+  stroke-dasharray: 2px 20px;
+  animation: animateline 5s linear both infinite;
+}
+@-moz-keyframes animateline {
+  from {
+    stroke-dashoffset: 0;
+  }
+  to {
+    stroke-dashoffset: -5rem;
+  }
+}
+@-webkit-keyframes animateline {
+  from {
+    stroke-dashoffset: 0;
+  }
+  to {
+    stroke-dashoffset: -5rem;
+  }
+}
+@-o-keyframes animateline {
+  from {
+    stroke-dashoffset: 0;
+  }
+  to {
+    stroke-dashoffset: -5rem;
+  }
+}
+@keyframes animateline {
+  from {
+    stroke-dashoffset: 0;
+  }
+  to {
+    stroke-dashoffset: -5rem;
+  }
+}
