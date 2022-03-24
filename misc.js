@@ -118,4 +118,92 @@
           document.getElementById('q1n1').style.display="block"
         }
     }
+    function q2n1show() {
+        if($('#q2n1').css('display') === 'block'){
+          document.getElementById('q2n1').style.display="none"
+        }
+        else{
+          document.getElementById('q2n1').style.display="block"
+        }
+    }
+    function q3n1show() {
+        if($('#q3n1').css('display') === 'block'){
+          document.getElementById('q3n1').style.display="none"
+        }
+        else{
+          document.getElementById('q3n1').style.display="block"
+        }
+    }
+    function q4n1show() {
+        if($('#q4n1').css('display') === 'block'){
+          document.getElementById('q4n1').style.display="none"
+        }
+        else{
+          document.getElementById('q4n1').style.display="block"
+        }
+    }
+    function q5n1show() {
+        if($('#q5n1').css('display') === 'block'){
+          document.getElementById('q5n1').style.display="none"
+        }
+        else{
+          document.getElementById('q5n1').style.display="block"
+        }
+    }
+    function q6n1show() {
+        if($('#q1n1').css('display') === 'block'){
+          document.getElementById('q6n1').style.display="none"
+        }
+        else{
+          document.getElementById('q6n1').style.display="block"
+        }
+    }
+    function q7n1show() {
+        if($('#q7n1').css('display') === 'block'){
+          document.getElementById('q7n1').style.display="none"
+        }
+        else{
+          document.getElementById('q7n1').style.display="block"
+        }
+    }
+    function q8n1show() {
+        if($('#q8n1').css('display') === 'block'){
+          document.getElementById('q8n1').style.display="none"
+        }
+        else{
+          document.getElementById('q8n1').style.display="block"
+        }
+    }
+    function q9n1show() {
+        if($('#q9n1').css('display') === 'block'){
+          document.getElementById('q9n1').style.display="none"
+        }
+        else{
+          document.getElementById('q9n1').style.display="block"
+        }
+    }
+    function q10n1show() {
+        if($('#q10n1').css('display') === 'block'){
+          document.getElementById('q10n1').style.display="none"
+        }
+        else{
+          document.getElementById('q10n1').style.display="block"
+        }
+    }
+    function q11n1show() {
+        if($('#q11n1').css('display') === 'block'){
+          document.getElementById('q11n1').style.display="none"
+        }
+        else{
+          document.getElementById('q11n1').style.display="block"
+        }
+    }
+    function q12n1show() {
+        if($('#q1n1').css('display') === 'block'){
+          document.getElementById('q12n1').style.display="none"
+        }
+        else{
+          document.getElementById('q12n1').style.display="block"
+        }
+    }
 
