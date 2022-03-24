@@ -199,11 +199,107 @@
         }
     }
     function q12n1show() {
-        if($('#q1n1').css('display') === 'block'){
+        if($('#q12n1').css('display') === 'block'){
           document.getElementById('q12n1').style.display="none"
         }
         else{
           document.getElementById('q12n1').style.display="block"
+        }
+    }
+    function q13n1show() {
+        if($('#q13n1').css('display') === 'block'){
+          document.getElementById('q13n1').style.display="none"
+        }
+        else{
+          document.getElementById('q13n1').style.display="block"
+        }
+    }
+    function q14n1show() {
+        if($('#q14n1').css('display') === 'block'){
+          document.getElementById('q14n1').style.display="none"
+        }
+        else{
+          document.getElementById('q14n1').style.display="block"
+        }
+    }
+    function q15n1show() {
+        if($('#q15n1').css('display') === 'block'){
+          document.getElementById('q15n1').style.display="none"
+        }
+        else{
+          document.getElementById('q15n1').style.display="block"
+        }
+    }
+    function q16n1show() {
+        if($('#q16n1').css('display') === 'block'){
+          document.getElementById('q16n1').style.display="none"
+        }
+        else{
+          document.getElementById('q16n1').style.display="block"
+        }
+    }
+    function q17n1show() {
+        if($('#q17n1').css('display') === 'block'){
+          document.getElementById('q17n1').style.display="none"
+        }
+        else{
+          document.getElementById('q17n1').style.display="block"
+        }
+    }
+    function q18n1show() {
+        if($('#q18n1').css('display') === 'block'){
+          document.getElementById('q18n1').style.display="none"
+        }
+        else{
+          document.getElementById('q18n1').style.display="block"
+        }
+    }
+    function q19n1show() {
+        if($('#q19n1').css('display') === 'block'){
+          document.getElementById('q19n1').style.display="none"
+        }
+        else{
+          document.getElementById('q19n1').style.display="block"
+        }
+    }
+    function q20n1show() {
+        if($('#q20n1').css('display') === 'block'){
+          document.getElementById('q20n1').style.display="none"
+        }
+        else{
+          document.getElementById('q20n1').style.display="block"
+        }
+    }
+    function q21n1show() {
+        if($('#q21n1').css('display') === 'block'){
+          document.getElementById('q21n1').style.display="none"
+        }
+        else{
+          document.getElementById('q21n1').style.display="block"
+        }
+    }
+    function q22n1show() {
+        if($('#q22n1').css('display') === 'block'){
+          document.getElementById('q22n1').style.display="none"
+        }
+        else{
+          document.getElementById('q22n1').style.display="block"
+        }
+    }
+    function q23n1show() {
+        if($('#q23n1').css('display') === 'block'){
+          document.getElementById('q23n1').style.display="none"
+        }
+        else{
+          document.getElementById('q23n1').style.display="block"
+        }
+    }
+    function q24n1show() {
+        if($('#q24n1').css('display') === 'block'){
+          document.getElementById('q24n1').style.display="none"
+        }
+        else{
+          document.getElementById('q24n1').style.display="block"
         }
     }
 
