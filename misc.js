@@ -108,3 +108,14 @@
     })
   });
 })(jQuery);
+
+//Open and close tex areas for questionnaire
+    function q1n1show() {
+        if($('#q1n1').css('display') === 'block'){
+          document.getElementById('q1n1').style.display="none"
+        }
+        else{
+          document.getElementById('q1n1').style.display="block"
+        }
+    }
+
