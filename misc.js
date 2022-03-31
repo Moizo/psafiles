@@ -109,7 +109,7 @@
   });
 })(jQuery);
 
-//Open and close tex areas for questionnaire
+//Open and close text areas for questionnaire page 6.1
     function q1n1show() {
         if($('#q1n1').css('display') === 'block'){
           document.getElementById('q1n1').style.display="none"
