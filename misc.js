@@ -151,7 +151,7 @@
         }
     }
     function q6n1show() {
-        if($('#q1n1').css('display') === 'block'){
+        if($('#q6n1').css('display') === 'block'){
           document.getElementById('q6n1').style.display="none"
         }
         else{
