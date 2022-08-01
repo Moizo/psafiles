@@ -55,9 +55,22 @@ function Q4Yes() {
 }
 function Q4No() {
     document.getElementById("question4").style.display = "none";
+    document.getElementById("question5").style.display = "block";
+    document.getElementById("question5").style.WebkitTransition = 'opacity 3s ease-in-out';
+    document.getElementById("question5").style.opacity = "1";
+}
+//Question 5
+function Q5Yes() {
+    document.getElementById("question5").style.display = "none";
     document.getElementById("result4").style.display = "block";
     document.getElementById("result4").style.WebkitTransition = 'opacity 3s ease-in-out';
     document.getElementById("result4").style.opacity = "1";
+}
+function Q5No() {
+    document.getElementById("question5").style.display = "none";
+    document.getElementById("result7").style.display = "block";
+    document.getElementById("result7").style.WebkitTransition = 'opacity 3s ease-in-out';
+    document.getElementById("result7").style.opacity = "1";
 }
 //Back To Question 1
 function BQ1() {
@@ -87,8 +100,17 @@ function BQ3() {
 //Back To Question 4
 function BQ4() {
     document.getElementById("result4").style.display = "none";  
-    document.getElementById("result6").style.display = "none";      
+    document.getElementById("result6").style.display = "none";
+    document.getElementById("question5").style.display = "none";    
     document.getElementById("question4").style.display = "block";
     document.getElementById("question4").style.WebkitTransition = 'opacity 3s ease-in-out';
     document.getElementById("question4").style.opacity = "1";
+}
+//Back To Question 5
+function BQ5() {
+    document.getElementById("result4").style.display = "none";  
+    document.getElementById("result7").style.display = "none";   
+    document.getElementById("question5").style.display = "block";
+    document.getElementById("question5").style.WebkitTransition = 'opacity 3s ease-in-out';
+    document.getElementById("question5").style.opacity = "1";
 }
